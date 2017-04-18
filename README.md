@@ -1,5 +1,5 @@
 # day_finder
-This Plugin will be shown your current/today date.
+This Plugin will be shown your current/today Day.
 
 For this small plugin you need to date-finder.min.js file. If you want edit this file then you can use our normal file date-finder.js.
 
